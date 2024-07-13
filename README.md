@@ -1,4 +1,4 @@
-# rrcf-weighted-
+# isolation-forest-weighted-
 
 
 Based on the implementation of rrcf done by [mgckind](https://github.com/mgckind/iso_forest.git), 
