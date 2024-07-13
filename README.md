@@ -5,7 +5,6 @@ Based on the implementation of rrcf done by [mgckind](https://github.com/mgckind
 I only changed some part of the def make_tree(self,X,e,l) as follows:
 (This is very simple but powerful)
 
-**Determine value for split**
     def make_tree(self,X,e,l):
         self.e = e
         if e >= l or len(X) <= 1:
